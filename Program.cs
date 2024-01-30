@@ -41,8 +41,6 @@ public class Program
 
             var filePath = folderPath;
             var reader = PdfDocument.Open(filePath);
-
-
             foreach (var page in reader.GetPages())
             {
                 var pageText = ContentOrderTextExtractor.GetText(page);
