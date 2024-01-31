@@ -1,3 +1,5 @@
 # Pdf-Word-Counter
 
-Türkçe pdf belgelerin içinde kaç kelime olduğunu bulmaya dair basit bir kelime sayıcı. Tek dosya exe olarak publish alınabilir.
+TÃ¼rkÃ§e pdf belgelerin iÃ§inde kaÃ§ kelime olduÄŸunu bulmaya dair basit bir kelime sayÄ±cÄ±. Tek dosya exe olarak publish alÄ±nabilir.
+
+Published: https://disk.yandex.com.tr/d/jKDUTtRUEofDSA
